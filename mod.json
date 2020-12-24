@@ -1,0 +1,10 @@
+  
+{
+	"name": "wntp",
+	"displayName": "Why Not Teleport?",
+	"author": "[royal]sk7725[]",
+	"description": "[accent]Ctrl + Alt + Click[] to teleport to your cursor.\n\n[scarlet]Disclaimer: not intended for multiplayer use![]",
+	"version": "0.1",
+	"hidden": true,
+	"minGameVersion": 108
+}
